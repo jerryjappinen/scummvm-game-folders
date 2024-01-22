@@ -13,4 +13,4 @@ Download from [this GitHub page](https://github.com/jerryjappinen/scummvm-game-f
 
 Up-to-date compatibility list and all IDs are available at [scummvm.org/compatibility](https://scummvm.org/compatibility/).
 
-As new versions of ScummVM are released, new game IDs might be added. You can help by suggesting edits in [data.js](./data.js) and submitting a pull request.
+As new versions of ScummVM are released, new game IDs might be added. Please suggest edits in [data.js](./data.js) and submit a pull request to keep this list up to date.
