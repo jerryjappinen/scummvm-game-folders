@@ -2,13 +2,17 @@
 
 This repo includes a precompiled folder structure, including ID files, for all games supported by ScummVM.
 
-Read more about ScummVM at [wiki.scummvm.org](https://wiki.scummvm.org/)
+---
 
 ### Download
 
 On [this GitHub page](https://github.com/jerryjappinen/scummvm-game-folders), press the big green _`<>` Code_ button and select _Download ZIP_.
 
 Extract the ZIP, and you will then find the folders and ID files under _SCUMMVM_.
+
+Read more about ScummVM at [wiki.scummvm.org](https://wiki.scummvm.org/)
+
+---
 
 ### Keep this list up to date
 
