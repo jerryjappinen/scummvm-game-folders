@@ -1,8 +1,10 @@
 const fs = require('node:fs')
+
+const conf = require('./conf')
 const data = require('./data')
 
 // Config
-const buildDir = './folders'
+const buildDir = conf.buildDir
 
 // Utils
 function l (...args) {
@@ -26,14 +28,14 @@ function clearBuildDir () {
       throw err;
     }
 
-    l(`Build directory deleted`);
+    l(`Old build directory cleared`);
   });
 
 }
 
 function createBuildDir () {
   fs.mkdirSync(buildDir, { recursive: true })
-  l(`Build directory created`);
+  l(`New build directory created`);
 }
 
 function createDir (path) {
@@ -48,7 +50,7 @@ function writeTextFile (path, content) {
   const fullPath = `${buildDir}/${path}`
 
   fs.writeFileSync(fullPath, content)
-  console.log(`File ${path} saved.`)
+  console.log(`File saved: ${path}`)
 }
 
 
