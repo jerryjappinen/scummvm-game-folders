@@ -5,6 +5,7 @@ const data = require('./data')
 
 // Config
 const buildDir = conf.buildDir
+const gameIds = sortGameIds(data.gameIds)
 
 // Utils
 function l (...args) {
@@ -15,6 +16,22 @@ function l (...args) {
 // https://stackoverflow.com/questions/7635952/javascript-how-to-remove-all-extra-spacing-between-words
 function normalizeFilename (str) {
   return str.replace(/[^a-zA-Z0-9]/g, ' ').replace(/\s+/g, " ").replace(/^\s+|\s+$/g, '')
+}
+
+function sortGameIds (list) {
+  const l = [...list]
+  l.sort((a, b) => {
+    if (a[0] < b[0] ){
+      return -1;
+    }
+
+    if (a[0] < b[0]){
+      return 1;
+    }
+
+    return 0;  
+  })
+  return l
 }
 
 // Remove existing folder
@@ -57,16 +74,14 @@ function writeTextFile (path, content) {
 
 // Text content
 function composeReadme () {
-  const rows = data.gameIds.map(([name, id]) => {
-    return `|${name}|${id}|`
+  const rows = gameIds.map(([name, id]) => {
+    return `- ${name} (${id})`
   }).join('\n')
 
-  return `# ScummVM game IDs
+  return `ScummVM game IDs
 
 Compatibility version ${data.compatibilityVersion}: ${data.docsUrl}
 
-|Game name|ScummVM ID|
-----------------------
 ${rows}
 `
 }
@@ -90,7 +105,7 @@ function build () {
   writeTextFile('README.txt', composeReadme())
 
   // Each game
-  data.gameIds.forEach(([name, id]) => {
+  gameIds.forEach(([name, id]) => {
     const dir = getSubDir(name)
 
     // Create folder
