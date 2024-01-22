@@ -4,7 +4,7 @@
   "description": "See compatibility list and all IDs here: https://scummvm.org/compatibility/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ./index.js"
   },
   "author": {
     "name": "Jerry Jäppinen",
