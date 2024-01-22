@@ -1,3 +1,3 @@
 module.exports = {
-  buildDir: 'scummvm'
+  buildDir: 'SCUMMVM'
 }

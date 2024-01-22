@@ -6,7 +6,9 @@ Read more about ScummVM at [wiki.scummvm.org](https://wiki.scummvm.org/)
 
 ### Download
 
-...
+On [this GitHub page](https://github.com/jerryjappinen/scummvm-game-folders/tree/main), press the big green _`<>` Code_ button and select _Download ZIP_.
+
+Extract the ZIP, and you will then find the folders and ID files under _SCUMMVM_.
 
 ### Keep this list up to date
 
