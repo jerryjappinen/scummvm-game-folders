@@ -1,0 +1,1 @@
+Put game files of Quest for Glory II: Trial by Fire (id sci:qfg2) into this folder.

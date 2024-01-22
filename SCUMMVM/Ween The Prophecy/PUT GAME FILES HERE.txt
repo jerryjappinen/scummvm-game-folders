@@ -1,0 +1,1 @@
+Put game files of Ween: The Prophecy (id gob:ween) into this folder.

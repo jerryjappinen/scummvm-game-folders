@@ -1,0 +1,1 @@
+Put game files of Freddi Fish 5: The Case of the Creature of Coral Cove (id scumm:freddicove) into this folder.

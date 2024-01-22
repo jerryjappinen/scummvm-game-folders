@@ -1,0 +1,1 @@
+Put game files of Myst (id mohawk:myst) into this folder.

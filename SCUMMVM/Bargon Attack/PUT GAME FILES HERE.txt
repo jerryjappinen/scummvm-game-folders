@@ -1,0 +1,1 @@
+Put game files of Bargon Attack (id gob:bargon) into this folder.

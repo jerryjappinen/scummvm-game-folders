@@ -1,0 +1,1 @@
+Put game files of JACL Interactive Fiction games (id glk:jacl) into this folder.

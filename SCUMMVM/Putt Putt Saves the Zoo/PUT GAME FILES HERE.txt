@@ -1,0 +1,1 @@
+Put game files of Putt-Putt Saves the Zoo (id scumm:puttzoo) into this folder.

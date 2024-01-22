@@ -1,0 +1,1 @@
+Put game files of Broken Sword II: The Smoking Mirror (id sword2:sword2) into this folder.

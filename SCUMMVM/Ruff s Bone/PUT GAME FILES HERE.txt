@@ -1,0 +1,1 @@
+Put game files of Ruff's Bone (id mohawk:ruff) into this folder.

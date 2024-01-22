@@ -1,0 +1,1 @@
+Put game files of Blue's ABC Time Activities (id scumm:bluesabctime) into this folder.

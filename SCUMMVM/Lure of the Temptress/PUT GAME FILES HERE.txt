@@ -1,0 +1,1 @@
+Put game files of Lure of the Temptress (id lure:lure) into this folder.

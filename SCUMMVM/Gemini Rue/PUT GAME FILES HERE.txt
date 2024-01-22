@@ -1,0 +1,1 @@
+Put game files of Gemini Rue (id ags:geminirue) into this folder.

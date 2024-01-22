@@ -1,0 +1,1 @@
+Put game files of Blue's Clues: Blue's Birthday Adventure (id scumm:bluesbirthday) into this folder.

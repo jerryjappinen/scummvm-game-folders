@@ -1,0 +1,1 @@
+Put game files of Sumatra: Fate of Yandi (id ags:sumatra) into this folder.

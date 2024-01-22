@@ -1,0 +1,1 @@
+Put game files of Strangeland (id ags:strangeland) into this folder.

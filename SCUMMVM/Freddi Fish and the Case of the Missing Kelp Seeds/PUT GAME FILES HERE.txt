@@ -1,0 +1,1 @@
+Put game files of Freddi Fish and the Case of the Missing Kelp Seeds (id scumm:freddi) into this folder.

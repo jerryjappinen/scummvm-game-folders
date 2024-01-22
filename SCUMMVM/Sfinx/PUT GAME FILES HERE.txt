@@ -1,0 +1,1 @@
+Put game files of Sfinx (id cge2:sfinx) into this folder.

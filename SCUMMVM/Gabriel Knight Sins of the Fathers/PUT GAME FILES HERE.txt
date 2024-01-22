@@ -1,0 +1,1 @@
+Put game files of Gabriel Knight: Sins of the Fathers (id sci:gk1) into this folder.

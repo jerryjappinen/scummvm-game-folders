@@ -1,0 +1,1 @@
+Put game files of Castle of Dr. Brain (id sci:castlebrain) into this folder.

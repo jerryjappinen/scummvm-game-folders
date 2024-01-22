@@ -1,0 +1,1 @@
+Put game files of Freddi Fish and Luther's Maze Madness (id scumm:maze) into this folder.

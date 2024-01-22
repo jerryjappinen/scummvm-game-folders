@@ -1,0 +1,1 @@
+Put game files of Hugo II: Whodunit (id hugo:hugo2) into this folder.

@@ -1,0 +1,1 @@
+Put game files of The Story of Creation (id mohawk:create) into this folder.

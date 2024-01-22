@@ -1,0 +1,1 @@
+Put game files of The Beast Within: A Gabriel Knight Mystery (id sci:gk2) into this folder.

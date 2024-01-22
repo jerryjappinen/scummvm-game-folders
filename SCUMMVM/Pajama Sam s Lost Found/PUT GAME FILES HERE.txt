@@ -1,0 +1,1 @@
+Put game files of Pajama Sam's Lost & Found (id scumm:lost) into this folder.

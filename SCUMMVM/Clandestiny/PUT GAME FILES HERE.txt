@@ -1,0 +1,1 @@
+Put game files of Clandestiny (id groovie:clandestiny) into this folder.

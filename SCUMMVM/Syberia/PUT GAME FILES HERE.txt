@@ -1,0 +1,1 @@
+Put game files of Syberia (id tetraedge:syberia) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Hugo Interactive Fiction games (id glk:hugo) into this folder.

@@ -1,0 +1,1 @@
+Put game files of RAMA (id sci:rama) into this folder.

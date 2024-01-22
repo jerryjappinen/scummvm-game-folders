@@ -1,0 +1,1 @@
+Put game files of Myth (id glk:myth) into this folder.

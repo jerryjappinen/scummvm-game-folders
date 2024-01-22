@@ -1,0 +1,1 @@
+Put game files of The Longest Journey (id stark:tlj) into this folder.

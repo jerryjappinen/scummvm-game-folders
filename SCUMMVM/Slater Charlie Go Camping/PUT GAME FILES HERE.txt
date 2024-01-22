@@ -1,0 +1,1 @@
+Put game files of Slater & Charlie Go Camping (id sci:slater) into this folder.

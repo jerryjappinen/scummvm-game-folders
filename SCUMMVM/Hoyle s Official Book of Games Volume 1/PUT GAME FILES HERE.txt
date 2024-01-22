@@ -1,0 +1,1 @@
+Put game files of Hoyle's Official Book of Games: Volume 1 (id sci:hoyle1) into this folder.

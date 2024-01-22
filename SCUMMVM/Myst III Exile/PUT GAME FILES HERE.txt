@@ -1,0 +1,1 @@
+Put game files of Myst III: Exile (id myst3:myst3) into this folder.

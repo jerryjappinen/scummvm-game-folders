@@ -1,0 +1,1 @@
+Put game files of Escape from the Mansion (id wintermute:escapemansion) into this folder.

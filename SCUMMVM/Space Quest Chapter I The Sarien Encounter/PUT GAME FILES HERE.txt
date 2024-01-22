@@ -1,0 +1,1 @@
+Put game files of Space Quest: Chapter I - The Sarien Encounter (id agi:sq1) into this folder.

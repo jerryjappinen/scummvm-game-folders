@@ -1,0 +1,1 @@
+Put game files of The Excavation of Hob's Barrow (id ags:excavationhb) into this folder.

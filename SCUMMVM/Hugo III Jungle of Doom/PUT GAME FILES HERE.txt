@@ -1,0 +1,1 @@
+Put game files of Hugo III: Jungle of Doom (id hugo:hugo3) into this folder.

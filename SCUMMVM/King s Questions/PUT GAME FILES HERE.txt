@@ -1,0 +1,1 @@
+Put game files of King's Questions (id sci:kquestions) into this folder.

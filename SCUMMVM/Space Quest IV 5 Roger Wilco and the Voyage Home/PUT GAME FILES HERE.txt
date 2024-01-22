@@ -1,0 +1,1 @@
+Put game files of Space Quest IV.5 - Roger Wilco and the Voyage Home (id ags:sq45) into this folder.

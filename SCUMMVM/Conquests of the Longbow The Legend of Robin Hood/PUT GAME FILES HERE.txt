@@ -1,0 +1,1 @@
+Put game files of Conquests of the Longbow: The Legend of Robin Hood (id sci:longbow) into this folder.

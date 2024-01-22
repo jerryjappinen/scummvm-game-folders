@@ -1,0 +1,1 @@
+Put game files of Hi-Res Adventure #2: The Wizard and the Princess (id adl:hires2) into this folder.

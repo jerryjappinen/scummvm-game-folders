@@ -1,0 +1,1 @@
+Put game files of Starship Titanic (id titanic:titanic) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Let's Explore the Farm (id scumm:farm) into this folder.

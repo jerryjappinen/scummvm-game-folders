@@ -1,0 +1,1 @@
+Put game files of Dead City (id wintermute:deadcity) into this folder.

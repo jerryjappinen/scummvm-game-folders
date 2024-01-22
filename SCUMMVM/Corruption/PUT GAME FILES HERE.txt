@@ -1,0 +1,1 @@
+Put game files of Corruption (id glk:corruption) into this folder.

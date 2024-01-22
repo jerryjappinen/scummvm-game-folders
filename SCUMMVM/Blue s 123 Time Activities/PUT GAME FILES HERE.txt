@@ -1,0 +1,1 @@
+Put game files of Blue's 123 Time Activities (id scumm:blues123time) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Hi-Res Adventure #5: Time Zone (id adl:hires5) into this folder.

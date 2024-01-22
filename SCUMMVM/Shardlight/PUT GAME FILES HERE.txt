@@ -1,0 +1,1 @@
+Put game files of Shardlight (id ags:shardlight) into this folder.

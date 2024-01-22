@@ -1,0 +1,1 @@
+Put game files of Versailles 1685 (id cryomni3d:versailles) into this folder.

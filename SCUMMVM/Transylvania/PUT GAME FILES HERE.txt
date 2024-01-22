@@ -1,0 +1,1 @@
+Put game files of Transylvania (id glk:transylvania) into this folder.

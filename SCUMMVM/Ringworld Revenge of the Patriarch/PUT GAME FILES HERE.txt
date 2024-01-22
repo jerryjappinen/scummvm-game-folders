@@ -1,0 +1,1 @@
+Put game files of Ringworld: Revenge of the Patriarch (id tsage:ringworld) into this folder.

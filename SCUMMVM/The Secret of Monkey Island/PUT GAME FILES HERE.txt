@@ -1,0 +1,1 @@
+Put game files of The Secret of Monkey Island (id scumm:monkey) into this folder.

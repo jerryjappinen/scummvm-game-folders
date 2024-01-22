@@ -1,0 +1,1 @@
+Put game files of Chivalry is Not Dead (id wintermute:chivalry) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Police Quest IV: Open Season (id sci:pq4) into this folder.

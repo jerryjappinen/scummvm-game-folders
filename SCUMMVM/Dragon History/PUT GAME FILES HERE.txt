@@ -1,0 +1,1 @@
+Put game files of Dragon History (id draci:draci) into this folder.

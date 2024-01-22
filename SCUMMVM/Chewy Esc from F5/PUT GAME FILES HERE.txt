@@ -1,0 +1,1 @@
+Put game files of Chewy: Esc from F5 (id chewy:chewy) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Just Ignore Them (id ags:justignorethem) into this folder.

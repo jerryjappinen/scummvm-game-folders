@@ -1,0 +1,1 @@
+Put game files of The Guild of Thieves (id glk:guild) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Putt-Putt and Pep's Balloon-O-Rama (id scumm:balloon) into this folder.

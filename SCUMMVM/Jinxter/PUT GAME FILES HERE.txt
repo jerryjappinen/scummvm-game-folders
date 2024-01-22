@@ -1,0 +1,1 @@
+Put game files of Jinxter (id glk:jinxter) into this folder.

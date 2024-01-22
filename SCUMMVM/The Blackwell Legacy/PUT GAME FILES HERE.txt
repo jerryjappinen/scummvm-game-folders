@@ -1,0 +1,1 @@
+Put game files of The Blackwell Legacy (id ags:blackwell1) into this folder.

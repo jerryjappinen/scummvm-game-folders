@@ -1,0 +1,1 @@
+Put game files of Conquests of Camelot: The Search for the Grail (id sci:camelot) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Gobliins 2: The Prince Buffoon (id gob:gob2) into this folder.

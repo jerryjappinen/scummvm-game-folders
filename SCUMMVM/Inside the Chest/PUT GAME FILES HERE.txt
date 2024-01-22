@@ -1,0 +1,1 @@
+Put game files of Inside the Chest (id sci:chest) into this folder.

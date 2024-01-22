@@ -1,0 +1,1 @@
+Put game files of Return to Zork (id made:rtz) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Primordia (id ags:primordia) into this folder.

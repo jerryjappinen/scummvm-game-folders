@@ -1,0 +1,1 @@
+Put game files of The Labyrinth of Time (id lab:lab) into this folder.

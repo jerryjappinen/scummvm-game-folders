@@ -1,0 +1,1 @@
+Put game files of Grim Fandango (id grim:grim) into this folder.

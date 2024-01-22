@@ -1,0 +1,1 @@
+Put game files of Eye of the Beholder II: The Legend of Darkmoon (id kyra:eob2) into this folder.

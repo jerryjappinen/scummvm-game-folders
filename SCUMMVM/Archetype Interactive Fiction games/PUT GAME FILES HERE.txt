@@ -1,0 +1,1 @@
+Put game files of Archetype Interactive Fiction games (id glk:archetype) into this folder.

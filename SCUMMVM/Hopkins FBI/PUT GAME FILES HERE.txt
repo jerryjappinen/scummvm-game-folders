@@ -1,0 +1,1 @@
+Put game files of Hopkins FBI (id hopkins:hopkins) into this folder.

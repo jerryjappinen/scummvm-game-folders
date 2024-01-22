@@ -1,0 +1,1 @@
+Put game files of Pepper's Adventures in Time (id sci:pepper) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Zork: Grand Inquisitor (id zvision:zgi) into this folder.

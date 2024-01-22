@@ -1,0 +1,1 @@
+Put game files of Dark Side (id freescape:darkside) into this folder.

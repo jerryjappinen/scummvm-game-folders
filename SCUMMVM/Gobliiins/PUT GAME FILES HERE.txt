@@ -1,0 +1,1 @@
+Put game files of Gobliiins (id gob:gob1) into this folder.

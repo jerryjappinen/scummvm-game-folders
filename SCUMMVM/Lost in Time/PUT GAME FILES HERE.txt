@@ -1,0 +1,1 @@
+Put game files of Lost in Time (id gob:lit) into this folder.

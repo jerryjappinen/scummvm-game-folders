@@ -1,0 +1,1 @@
+Put game files of Sam & Max: Hit the Road (id scumm:samnmax) into this folder.

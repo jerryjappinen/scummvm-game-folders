@@ -1,0 +1,1 @@
+Put game files of The Griffon Legend (id griffon:griffon) into this folder.

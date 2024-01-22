@@ -1,0 +1,1 @@
+Put game files of Classical Cats (id director:classicalcats) into this folder.

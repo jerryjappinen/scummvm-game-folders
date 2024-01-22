@@ -1,0 +1,1 @@
+Put game files of Fascination (id gob:fascination) into this folder.

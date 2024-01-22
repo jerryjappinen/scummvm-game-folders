@@ -1,0 +1,1 @@
+Put game files of Alan 2 & 3 Interactive Fiction games (id glk:alan) into this folder.

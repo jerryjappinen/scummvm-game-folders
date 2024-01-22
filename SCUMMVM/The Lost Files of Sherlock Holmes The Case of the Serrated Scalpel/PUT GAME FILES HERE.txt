@@ -1,0 +1,1 @@
+Put game files of The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel (id sherlock:scalpel) into this folder.

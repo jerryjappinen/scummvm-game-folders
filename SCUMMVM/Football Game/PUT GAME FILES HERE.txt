@@ -1,0 +1,1 @@
+Put game files of Football Game (id ags:footballgame) into this folder.

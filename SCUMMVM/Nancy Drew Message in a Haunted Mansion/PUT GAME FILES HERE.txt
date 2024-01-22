@@ -1,0 +1,1 @@
+Put game files of Nancy Drew: Message in a Haunted Mansion (id nancy:nancy3) into this folder.

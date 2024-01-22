@@ -1,0 +1,1 @@
+Put game files of Backyard Baseball 2001 (id scumm:baseball2001) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Mission Supernova 2 (id supernova:msn2) into this folder.

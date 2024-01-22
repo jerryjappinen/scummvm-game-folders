@@ -1,0 +1,1 @@
+Put game files of Let's Explore the Airport (id scumm:airport) into this folder.

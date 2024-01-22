@@ -1,0 +1,1 @@
+Put game files of King's Quest V: Absence Makes the Heart Go Yonder (id sci:kq5) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Riven: The Sequel to Myst (id mohawk:riven) into this folder.

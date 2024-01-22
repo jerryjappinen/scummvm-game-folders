@@ -1,0 +1,1 @@
+Put game files of The White Chamber (id wintermute:twc) into this folder.

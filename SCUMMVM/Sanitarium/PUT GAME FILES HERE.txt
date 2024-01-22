@@ -1,0 +1,1 @@
+Put game files of Sanitarium (id asylum:sanitarium) into this folder.

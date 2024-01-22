@@ -1,0 +1,1 @@
+Put game files of Escape From Monkey Island (id grim:monkey4) into this folder.

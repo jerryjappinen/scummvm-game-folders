@@ -1,0 +1,1 @@
+Put game files of Ultima VI: The False Prophet (id ultima:ultima6) into this folder.

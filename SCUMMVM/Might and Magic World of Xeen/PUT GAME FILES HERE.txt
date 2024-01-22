@@ -1,0 +1,1 @@
+Put game files of Might and Magic: World of Xeen (id mm:worldofxeen) into this folder.

@@ -1,0 +1,1 @@
+Put game files of The Pawn (id glk:pawn) into this folder.

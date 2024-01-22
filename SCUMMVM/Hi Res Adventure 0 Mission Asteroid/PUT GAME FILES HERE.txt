@@ -1,0 +1,1 @@
+Put game files of Hi-Res Adventure #0: Mission Asteroid (id adl:hires0) into this folder.

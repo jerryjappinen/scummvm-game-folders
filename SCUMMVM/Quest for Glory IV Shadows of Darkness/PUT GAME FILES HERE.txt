@@ -1,0 +1,1 @@
+Put game files of Quest for Glory IV: Shadows of Darkness (id sci:qfg4) into this folder.

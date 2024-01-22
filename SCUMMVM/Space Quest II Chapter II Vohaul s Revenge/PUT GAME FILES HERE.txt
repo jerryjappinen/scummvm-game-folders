@@ -1,0 +1,1 @@
+Put game files of Space Quest II: Chapter II - Vohaul's Revenge (id agi:sq2) into this folder.

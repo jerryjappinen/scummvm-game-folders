@@ -1,0 +1,1 @@
+Put game files of Toonstruck (id toon:toon) into this folder.

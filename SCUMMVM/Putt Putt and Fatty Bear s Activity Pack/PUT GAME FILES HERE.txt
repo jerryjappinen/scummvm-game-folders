@@ -1,0 +1,1 @@
+Put game files of Putt-Putt and Fatty Bear's Activity Pack (id scumm:activity) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Glulx Interactive Fiction games (id glk:glulx) into this folder.

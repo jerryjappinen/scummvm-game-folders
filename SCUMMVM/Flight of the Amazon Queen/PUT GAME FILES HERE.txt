@@ -1,0 +1,1 @@
+Put game files of Flight of the Amazon Queen (id queen:queen) into this folder.

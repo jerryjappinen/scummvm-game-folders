@@ -1,0 +1,1 @@
+Put game files of Space Quest I: Roger Wilco in the Sarien Encounter (id sci:sq1sci) into this folder.

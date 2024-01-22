@@ -1,0 +1,1 @@
+Put game files of Beneath a Steel Sky (id sky:sky) into this folder.

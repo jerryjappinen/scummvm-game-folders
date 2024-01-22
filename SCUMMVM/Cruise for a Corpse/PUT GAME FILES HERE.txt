@@ -1,0 +1,1 @@
+Put game files of Cruise for a Corpse (id cruise:cruise) into this folder.

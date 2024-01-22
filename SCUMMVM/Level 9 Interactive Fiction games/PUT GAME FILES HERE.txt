@@ -1,0 +1,1 @@
+Put game files of Level 9 Interactive Fiction games (id glk:level9) into this folder.

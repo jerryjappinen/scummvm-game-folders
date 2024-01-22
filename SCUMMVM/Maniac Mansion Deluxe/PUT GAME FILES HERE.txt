@@ -1,0 +1,1 @@
+Put game files of Maniac Mansion Deluxe (id ags:maniacmansiondeluxe) into this folder.

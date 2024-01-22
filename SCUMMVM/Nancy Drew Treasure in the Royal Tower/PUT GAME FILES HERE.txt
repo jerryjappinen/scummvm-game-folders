@@ -1,0 +1,1 @@
+Put game files of Nancy Drew: Treasure in the Royal Tower (id nancy:nancy4) into this folder.

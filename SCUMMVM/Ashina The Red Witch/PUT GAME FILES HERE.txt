@@ -1,0 +1,1 @@
+Put game files of Ashina: The Red Witch (id ags:ashinaredwitch) into this folder.

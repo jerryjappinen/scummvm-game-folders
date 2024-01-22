@@ -1,0 +1,1 @@
+Put game files of Nippon Safes, Inc (id parallaction:nippon) into this folder.

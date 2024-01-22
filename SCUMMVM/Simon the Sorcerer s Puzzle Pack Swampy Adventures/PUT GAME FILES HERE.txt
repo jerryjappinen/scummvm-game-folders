@@ -1,0 +1,1 @@
+Put game files of Simon the Sorcerer's Puzzle Pack: Swampy Adventures (id agos:swampy) into this folder.

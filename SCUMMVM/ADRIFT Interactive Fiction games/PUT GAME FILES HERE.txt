@@ -1,0 +1,1 @@
+Put game files of ADRIFT Interactive Fiction games (id glk:adrift) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Mixed Up Fairy Tales (id sci:fairytales) into this folder.

@@ -1,0 +1,1 @@
+Put game files of The Manhole (id made:manhole) into this folder.

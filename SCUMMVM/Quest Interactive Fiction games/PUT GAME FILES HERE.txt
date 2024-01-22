@@ -1,0 +1,1 @@
+Put game files of Quest Interactive Fiction games (id glk:quest) into this folder.

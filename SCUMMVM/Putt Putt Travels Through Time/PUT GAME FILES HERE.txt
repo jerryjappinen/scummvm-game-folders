@@ -1,0 +1,1 @@
+Put game files of Putt-Putt Travels Through Time (id scumm:putttime) into this folder.

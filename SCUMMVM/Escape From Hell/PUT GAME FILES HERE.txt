@@ -1,0 +1,1 @@
+Put game files of Escape From Hell (id efh:efh) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Rosemary (id wintermute:rosemary) into this folder.

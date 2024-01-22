@@ -1,0 +1,1 @@
+Put game files of Police Quest 2: The Vengeance (id sci:pq2) into this folder.

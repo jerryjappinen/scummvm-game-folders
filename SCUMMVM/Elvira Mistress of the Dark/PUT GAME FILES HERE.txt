@@ -1,0 +1,1 @@
+Put game files of Elvira: Mistress of the Dark (id agos:elvira1) into this folder.

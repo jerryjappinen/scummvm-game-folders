@@ -1,0 +1,1 @@
+Put game files of AdvSys Interactive Fiction games (id glk:advsys) into this folder.

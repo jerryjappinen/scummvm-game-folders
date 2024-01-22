@@ -1,0 +1,1 @@
+Put game files of Leisure Suit Larry 7: Love for Sail (id sci:lsl7) into this folder.

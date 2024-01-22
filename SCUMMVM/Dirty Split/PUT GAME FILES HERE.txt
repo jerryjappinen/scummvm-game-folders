@@ -1,0 +1,1 @@
+Put game files of Dirty Split (id wintermute:dirtysplit) into this folder.

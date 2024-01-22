@@ -1,0 +1,1 @@
+Put game files of Five Magical Amulets (id wintermute:5ma) into this folder.

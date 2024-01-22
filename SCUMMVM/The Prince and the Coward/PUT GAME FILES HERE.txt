@@ -1,0 +1,1 @@
+Put game files of The Prince and the Coward (id prince:prince) into this folder.

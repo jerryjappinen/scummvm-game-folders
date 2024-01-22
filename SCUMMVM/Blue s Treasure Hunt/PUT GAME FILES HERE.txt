@@ -1,0 +1,1 @@
+Put game files of Blue's Treasure Hunt (id scumm:bluestreasurehunt) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Nancy Drew: The Final Scene (id nancy:nancy5) into this folder.

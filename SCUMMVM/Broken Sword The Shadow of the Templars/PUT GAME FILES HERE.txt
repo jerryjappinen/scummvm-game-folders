@@ -1,0 +1,1 @@
+Put game files of Broken Sword: The Shadow of the Templars (id sword1:sword1) into this folder.

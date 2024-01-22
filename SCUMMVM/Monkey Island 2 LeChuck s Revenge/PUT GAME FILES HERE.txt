@@ -1,0 +1,1 @@
+Put game files of Monkey Island 2: LeChuck's Revenge (id scumm:monkey2) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Manhunter: New York (id agi:mh1) into this folder.

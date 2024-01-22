@@ -1,0 +1,1 @@
+Put game files of Fatty Bear's FunPack (id scumm:fbpack) into this folder.

@@ -1,0 +1,1 @@
+Put game files of The Cute Machine (id director:cutemachine) into this folder.

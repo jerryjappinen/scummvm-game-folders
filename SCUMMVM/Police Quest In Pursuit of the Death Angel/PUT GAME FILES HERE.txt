@@ -1,0 +1,1 @@
+Put game files of Police Quest: In Pursuit of the Death Angel (id sci:pq1sci) into this folder.

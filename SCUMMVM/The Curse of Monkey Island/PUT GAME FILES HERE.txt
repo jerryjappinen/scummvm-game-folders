@@ -1,0 +1,1 @@
+Put game files of The Curse of Monkey Island (id scumm:comi) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Simon the Sorcerer's Puzzle Pack: Jumble (id agos:jumble) into this folder.

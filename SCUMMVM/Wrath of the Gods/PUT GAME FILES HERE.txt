@@ -1,0 +1,1 @@
+Put game files of Wrath of the Gods (id director:wrath) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Let's Explore the Jungle (id scumm:jungle) into this folder.

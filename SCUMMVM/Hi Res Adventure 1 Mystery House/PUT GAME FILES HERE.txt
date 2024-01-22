@@ -1,0 +1,1 @@
+Put game files of Hi-Res Adventure #1: Mystery House (id adl:hires1) into this folder.

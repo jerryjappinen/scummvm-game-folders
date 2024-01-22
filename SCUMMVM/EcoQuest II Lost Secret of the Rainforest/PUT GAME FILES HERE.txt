@@ -1,0 +1,1 @@
+Put game files of EcoQuest II: Lost Secret of the Rainforest (id sci:ecoquest2) into this folder.

@@ -1,0 +1,1 @@
+Put game files of The Better Dead Ratification (id director:betterd) into this folder.

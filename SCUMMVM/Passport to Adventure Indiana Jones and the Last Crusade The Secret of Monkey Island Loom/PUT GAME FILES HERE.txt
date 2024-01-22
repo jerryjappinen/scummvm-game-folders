@@ -1,0 +1,1 @@
+Put game files of Passport to Adventure (Indiana Jones and the Last Crusade, The Secret of Monkey Island, Loom (id scumm:pass) into this folder.

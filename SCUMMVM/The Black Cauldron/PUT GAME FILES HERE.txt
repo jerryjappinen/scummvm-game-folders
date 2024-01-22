@@ -1,0 +1,1 @@
+Put game files of The Black Cauldron (id agi:bc) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Donald Duck's Playground (id agi:ddp) into this folder.

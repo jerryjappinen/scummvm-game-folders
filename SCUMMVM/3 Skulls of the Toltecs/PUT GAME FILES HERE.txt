@@ -1,0 +1,1 @@
+Put game files of 3 Skulls of the Toltecs (id toltecs:toltecs) into this folder.

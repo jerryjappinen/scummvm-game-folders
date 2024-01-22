@@ -1,0 +1,1 @@
+Put game files of Putt-Putt and Pep's Dog on a Stick (id scumm:dog) into this folder.

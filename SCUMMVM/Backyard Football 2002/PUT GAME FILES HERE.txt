@@ -1,0 +1,1 @@
+Put game files of Backyard Football 2002 (id scumm:football2002) into this folder.

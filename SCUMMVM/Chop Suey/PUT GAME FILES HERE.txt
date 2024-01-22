@@ -1,0 +1,1 @@
+Put game files of Chop Suey (id director:chopsuey) into this folder.

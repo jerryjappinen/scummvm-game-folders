@@ -1,0 +1,1 @@
+Put game files of Hoyle Classic Card Games (id sci:hoyle4) into this folder.

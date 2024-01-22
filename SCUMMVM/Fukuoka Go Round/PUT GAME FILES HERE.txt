@@ -1,0 +1,1 @@
+Put game files of Fukuoka Go-Round (id director:fukuokagoround) into this folder.

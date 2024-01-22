@@ -1,0 +1,1 @@
+Put game files of Time Gal (id director:timegal) into this folder.

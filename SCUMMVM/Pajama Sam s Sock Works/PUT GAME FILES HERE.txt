@@ -1,0 +1,1 @@
+Put game files of Pajama Sam's Sock Works (id scumm:socks) into this folder.

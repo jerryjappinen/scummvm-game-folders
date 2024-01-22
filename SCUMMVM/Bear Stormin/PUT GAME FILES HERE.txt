@@ -1,0 +1,1 @@
+Put game files of Bear Stormin (id scumm:brstorm) into this folder.

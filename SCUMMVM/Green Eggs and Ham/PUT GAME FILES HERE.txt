@@ -1,0 +1,1 @@
+Put game files of Green Eggs and Ham (id mohawk:greeneggs) into this folder.

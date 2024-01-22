@@ -1,0 +1,1 @@
+Put game files of Ultima VIII - Pagan (id ultima:ultima8) into this folder.

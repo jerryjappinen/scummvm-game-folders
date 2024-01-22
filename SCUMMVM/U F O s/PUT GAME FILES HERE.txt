@@ -1,0 +1,1 @@
+Put game files of U.F.O.s (id gnap:gnap) into this folder.

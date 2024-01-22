@@ -1,0 +1,1 @@
+Put game files of Hades Challenge (id hadesch:hadesch) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Police Quest 3: The Kindred (id sci:pq3) into this folder.

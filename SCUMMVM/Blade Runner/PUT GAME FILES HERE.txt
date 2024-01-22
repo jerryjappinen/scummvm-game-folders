@@ -1,0 +1,1 @@
+Put game files of Blade Runner (id bladerunner:bladerunner) into this folder.

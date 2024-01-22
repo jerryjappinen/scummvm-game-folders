@@ -1,0 +1,1 @@
+Put game files of Indiana Jones and the Fate of Atlantis (id scumm:atlantis) into this folder.

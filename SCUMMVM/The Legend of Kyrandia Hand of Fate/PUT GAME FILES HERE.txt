@@ -1,0 +1,1 @@
+Put game files of The Legend of Kyrandia: Hand of Fate (id kyra:kyra2) into this folder.

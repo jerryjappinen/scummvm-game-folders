@@ -1,0 +1,1 @@
+Put game files of Technobabylon (id ags:technobabylon) into this folder.

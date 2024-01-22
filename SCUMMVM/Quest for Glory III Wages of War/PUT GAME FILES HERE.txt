@@ -1,0 +1,1 @@
+Put game files of Quest for Glory III: Wages of War (id sci:qfg3) into this folder.

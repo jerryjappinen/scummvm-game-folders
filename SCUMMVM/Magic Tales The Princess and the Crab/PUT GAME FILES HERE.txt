@@ -1,0 +1,1 @@
+Put game files of Magic Tales: The Princess and the Crab (id composer:princess) into this folder.

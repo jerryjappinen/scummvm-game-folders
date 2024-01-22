@@ -1,0 +1,1 @@
+Put game files of Shivers (id sci:shivers) into this folder.

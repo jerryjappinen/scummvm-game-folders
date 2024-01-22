@@ -1,0 +1,1 @@
+Put game files of Majestic Part 1: Alien Encounter (id director:majestic) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Ultima IV: Quest of the Avatar (id ultima:ultima4) into this folder.

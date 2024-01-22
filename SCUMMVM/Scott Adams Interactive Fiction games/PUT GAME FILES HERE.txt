@@ -1,0 +1,1 @@
+Put game files of Scott Adams Interactive Fiction games (id glk:scottadams) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Winnie the Pooh in the Hundred Acre Wood (id agi:winnie) into this folder.

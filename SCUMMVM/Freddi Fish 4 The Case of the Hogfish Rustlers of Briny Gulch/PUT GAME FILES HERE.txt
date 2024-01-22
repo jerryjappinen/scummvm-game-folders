@@ -1,0 +1,1 @@
+Put game files of Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch (id scumm:freddi4) into this folder.

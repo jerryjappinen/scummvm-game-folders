@@ -1,0 +1,1 @@
+Put game files of Gregory and the Hot Air Balloon (id composer:gregory) into this folder.

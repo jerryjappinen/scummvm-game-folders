@@ -1,0 +1,1 @@
+Put game files of Whispers of a Machine (id ags:whispersofamachine) into this folder.

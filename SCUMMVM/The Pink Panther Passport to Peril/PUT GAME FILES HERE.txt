@@ -1,0 +1,1 @@
+Put game files of The Pink Panther: Passport to Peril (id pink:peril) into this folder.

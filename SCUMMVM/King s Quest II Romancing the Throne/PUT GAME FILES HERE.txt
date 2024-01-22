@@ -1,0 +1,1 @@
+Put game files of King's Quest II: Romancing the Throne (id agi:kq2) into this folder.

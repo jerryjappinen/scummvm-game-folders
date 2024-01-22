@@ -1,0 +1,1 @@
+Put game files of Soldier Boyz (id hypno:soldierboyz) into this folder.

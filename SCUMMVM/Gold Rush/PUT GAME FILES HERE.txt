@@ -1,0 +1,1 @@
+Put game files of Gold Rush (id agi:goldrush) into this folder.

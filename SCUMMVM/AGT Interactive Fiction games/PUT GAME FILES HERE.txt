@@ -1,0 +1,1 @@
+Put game files of AGT Interactive Fiction games (id glk:agt) into this folder.

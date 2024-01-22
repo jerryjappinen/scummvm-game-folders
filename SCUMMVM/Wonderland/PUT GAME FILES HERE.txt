@@ -1,0 +1,1 @@
+Put game files of Wonderland (id glk:wonderland) into this folder.

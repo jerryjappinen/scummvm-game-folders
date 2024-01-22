@@ -1,0 +1,1 @@
+Put game files of Full Throttle (id scumm:ft) into this folder.

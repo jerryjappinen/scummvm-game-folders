@@ -1,0 +1,1 @@
+Put game files of A Golden Wake (id ags:goldenwake) into this folder.

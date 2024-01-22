@@ -1,0 +1,1 @@
+Put game files of Magic Tales: Liam Finds a Story (id composer:liam) into this folder.

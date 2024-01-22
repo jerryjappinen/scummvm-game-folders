@@ -1,0 +1,1 @@
+Put game files of Putt-Putt Goes to the Moon (id scumm:puttmoon) into this folder.

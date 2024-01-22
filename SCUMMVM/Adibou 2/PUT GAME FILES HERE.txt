@@ -1,0 +1,1 @@
+Put game files of Adibou 2 (id gob:adibou2) into this folder.

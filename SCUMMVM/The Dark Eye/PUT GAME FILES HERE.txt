@@ -1,0 +1,1 @@
+Put game files of The Dark Eye (id director:darkeye) into this folder.

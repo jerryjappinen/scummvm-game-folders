@@ -1,0 +1,1 @@
+Put game files of Maniac Mansion: Day of the Tentacle (id scumm:tentacle) into this folder.

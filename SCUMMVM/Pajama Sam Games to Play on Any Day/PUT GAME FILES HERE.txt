@@ -1,0 +1,1 @@
+Put game files of Pajama Sam: Games to Play on Any Day (id scumm:pjgames) into this folder.

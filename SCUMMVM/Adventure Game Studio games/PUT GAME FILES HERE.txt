@@ -1,0 +1,1 @@
+Put game files of Adventure Game Studio games (id ags:ags) into this folder.

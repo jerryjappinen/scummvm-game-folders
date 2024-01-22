@@ -1,0 +1,1 @@
+Put game files of EcoQuest: The Search for Cetus (id sci:ecoquest) into this folder.

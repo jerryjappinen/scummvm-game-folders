@@ -1,0 +1,1 @@
+Put game files of Freddi Fish 2: The Case of the Haunted Schoolhouse (id scumm:freddi2) into this folder.

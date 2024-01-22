@@ -1,0 +1,1 @@
+Put game files of King's Quest VII: The Princeless Bride (id sci:kq7) into this folder.

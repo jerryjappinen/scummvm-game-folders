@@ -1,0 +1,1 @@
+Put game files of OO-Topos (id glk:ootopos) into this folder.

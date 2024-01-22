@@ -1,0 +1,1 @@
+Put game files of Might and Magic: Swords of Xeen (id mm:swordsofxeen) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Hugo's House of Horrors (id hugo:hugo1) into this folder.

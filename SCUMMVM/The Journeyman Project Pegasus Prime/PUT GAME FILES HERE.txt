@@ -1,0 +1,1 @@
+Put game files of The Journeyman Project: Pegasus Prime (id pegasus:pegasus) into this folder.

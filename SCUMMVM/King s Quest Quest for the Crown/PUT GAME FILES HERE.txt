@@ -1,0 +1,1 @@
+Put game files of King's Quest: Quest for the Crown (id sci:kq1sci) into this folder.

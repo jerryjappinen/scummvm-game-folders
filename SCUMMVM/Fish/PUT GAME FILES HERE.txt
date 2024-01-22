@@ -1,0 +1,1 @@
+Put game files of Fish (id glk:fish) into this folder.

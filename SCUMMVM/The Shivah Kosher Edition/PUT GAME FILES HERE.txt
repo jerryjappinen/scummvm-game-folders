@@ -1,0 +1,1 @@
+Put game files of The Shivah: Kosher Edition (id ags:shivahkosher) into this folder.

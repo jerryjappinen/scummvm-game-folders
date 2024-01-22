@@ -1,0 +1,1 @@
+Put game files of Mickey's Space Adventure (id agi:mickey) into this folder.

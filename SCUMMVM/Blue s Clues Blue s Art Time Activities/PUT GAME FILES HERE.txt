@@ -1,0 +1,1 @@
+Put game files of Blue's Clues: Blue's Art Time Activities (id scumm:arttime) into this folder.

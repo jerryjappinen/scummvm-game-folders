@@ -1,0 +1,1 @@
+Put game files of Freddi Fish 3: The Case of the Stolen Conch Shell (id scumm:freddi3) into this folder.

@@ -1,0 +1,1 @@
+Put game files of Hyperspace Delivery Boy (id hdb:hdb) into this folder.

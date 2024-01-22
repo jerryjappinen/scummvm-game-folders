@@ -1,0 +1,1 @@
+Put game files of Personal Nightmare (id agos:pn) into this folder.

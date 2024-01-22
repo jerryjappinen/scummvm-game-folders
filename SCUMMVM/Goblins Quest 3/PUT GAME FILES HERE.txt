@@ -1,0 +1,1 @@
+Put game files of Goblins Quest 3 (id gob:gob3) into this folder.

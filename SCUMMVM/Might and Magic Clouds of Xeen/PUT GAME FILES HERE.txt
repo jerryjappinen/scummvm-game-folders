@@ -1,0 +1,1 @@
+Put game files of Might and Magic: Clouds of Xeen (id mm:cloudsofxeen) into this folder.

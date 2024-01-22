@@ -1,0 +1,1 @@
+Put game files of Magic Tales: The Little Samurai (id composer:littlesamurai) into this folder.

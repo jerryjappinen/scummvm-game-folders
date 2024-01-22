@@ -1,0 +1,1 @@
+Put game files of King's Quest III: To Heir Is Human (id agi:kq3) into this folder.

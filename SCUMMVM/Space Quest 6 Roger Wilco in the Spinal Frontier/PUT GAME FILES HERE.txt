@@ -1,0 +1,1 @@
+Put game files of Space Quest 6: Roger Wilco in the Spinal Frontier (id sci:sq6) into this folder.

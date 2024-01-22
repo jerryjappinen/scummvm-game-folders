@@ -1,0 +1,1 @@
+Put game files of Alice: An Interactive Museum (id director:alice) into this folder.

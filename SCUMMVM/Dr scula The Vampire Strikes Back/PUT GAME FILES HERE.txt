@@ -1,0 +1,1 @@
+Put game files of Dráscula: The Vampire Strikes Back (id drascula:drascula) into this folder.

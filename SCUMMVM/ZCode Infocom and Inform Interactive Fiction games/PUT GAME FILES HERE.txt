@@ -1,0 +1,1 @@
+Put game files of ZCode (Infocom and Inform) Interactive Fiction games (id glk:zcode) into this folder.

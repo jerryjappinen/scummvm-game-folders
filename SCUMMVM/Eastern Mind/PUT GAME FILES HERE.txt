@@ -1,0 +1,1 @@
+Put game files of Eastern Mind (id director:easternmind) into this folder.

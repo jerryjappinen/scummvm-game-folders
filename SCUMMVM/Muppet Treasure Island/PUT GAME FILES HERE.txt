@@ -1,0 +1,1 @@
+Put game files of Muppet Treasure Island (id mtropolis:mti) into this folder.

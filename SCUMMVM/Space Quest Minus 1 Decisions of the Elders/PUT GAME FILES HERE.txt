@@ -1,0 +1,1 @@
+Put game files of Space Quest Minus 1: Decisions of the Elders (id ags:sqdote) into this folder.

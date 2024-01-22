@@ -1,0 +1,1 @@
+Put game files of Kingdom: The Far Reaches (id kingdom:kingdom) into this folder.

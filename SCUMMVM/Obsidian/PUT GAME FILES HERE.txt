@@ -1,0 +1,1 @@
+Put game files of Obsidian (id mtropolis:obsidian) into this folder.

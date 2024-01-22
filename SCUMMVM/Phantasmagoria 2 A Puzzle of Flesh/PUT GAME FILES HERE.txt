@@ -1,0 +1,1 @@
+Put game files of Phantasmagoria 2: A Puzzle of Flesh (id sci:phantasmagoria2) into this folder.
