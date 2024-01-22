@@ -1,6 +1,6 @@
 {
   "name": "scummvm-game-folders",
-  "version": "2.8.0",
+  "version": "1.0.0",
   "description": "See compatibility list and all IDs here: https://scummvm.org/compatibility/",
   "main": "index.js",
   "scripts": {
