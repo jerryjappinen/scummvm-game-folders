@@ -1,10 +1,10 @@
 const fs = require('node:fs')
 
 const conf = require('./conf')
-const data = require('./data')
+const data = require('../data')
 
 // Config
-const buildDir = conf.buildDir
+const buildDir = '../' + conf.buildDir
 const gameIds = sortGameIds(data.gameIds)
 
 // Utils
