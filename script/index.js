@@ -15,21 +15,24 @@ function l (...args) {
 // https://stackoverflow.com/questions/9705194/replace-special-characters-in-a-string-with-underscore
 // https://stackoverflow.com/questions/7635952/javascript-how-to-remove-all-extra-spacing-between-words
 function normalizeFilename (str) {
-  return str.replace(/[^a-zA-Z0-9]/g, ' ').replace(/\s+/g, " ").replace(/^\s+|\s+$/g, '')
+  return str
+    .replace(/[^a-zA-Z0-9]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .replace(/^\s+|\s+$/g, '')
 }
 
 function sortGameIds (list) {
   const l = [...list]
   l.sort((a, b) => {
-    if (a[0] < b[0] ){
-      return -1;
+    if (a[0] < b[0]) {
+      return -1
     }
 
-    if (a[0] < b[0]){
-      return 1;
+    if (a[0] < b[0]) {
+      return 1
     }
 
-    return 0;  
+    return 0
   })
   return l
 }
@@ -37,22 +40,25 @@ function sortGameIds (list) {
 // Remove existing folder
 // https://nodejs.org/en/learn/manipulating-files/working-with-folders-in-nodejs
 function clearBuildDir () {
-  fs.rmSync(buildDir, {
-    recursive: true,
-    force: true
-  }, err => {
-    if (err) {
-      throw err;
+  fs.rmSync(
+    buildDir,
+    {
+      recursive: true,
+      force: true,
+    },
+    err => {
+      if (err) {
+        throw err
+      }
     }
+  )
 
-    l(`Old build directory cleared`);
-  });
-
+  l(`Old build directory cleared`)
 }
 
 function createBuildDir () {
   fs.mkdirSync(buildDir, { recursive: true })
-  l(`New build directory created`);
+  l(`New build directory created`)
 }
 
 function createDir (path) {
@@ -70,13 +76,13 @@ function writeTextFile (path, content) {
   console.log(`File saved: ${path}`)
 }
 
-
-
 // Text content
 function composeReadme () {
-  const rows = gameIds.map(([name, id]) => {
-    return `- ${name} (${id})`
-  }).join('\n')
+  const rows = gameIds
+    .map(([name, id]) => {
+      return `- ${name} (${id})`
+    })
+    .join('\n')
 
   return `ScummVM game IDs
 
@@ -93,8 +99,6 @@ function composeIdFile (id) {
 function composeGameReadme (name, id) {
   return `Put game files of ${name} (id ${id}) into this folder.`
 }
-
-
 
 // Build process
 function build () {
@@ -116,7 +120,6 @@ function build () {
 
     // Create mapper file for ScummVM
     writeTextFile(`${dir}.scummvm`, composeIdFile(id))
-
   })
 }
 
